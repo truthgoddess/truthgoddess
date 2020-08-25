@@ -1,5 +1,4 @@
-### Hi there 👋
-
+For more than a decade, I've been teaching GMAT, LSAT, GRE, SAT, ACT, Math and Physics to adults and teenagers while at the same time creating art in theatre, media, and writing. Then one day I tried programming. It engaged me in all the ways I wanted to be engaged. I expanded my teaching to teaching kids JavaScript which served to deepen my interest. Still, I still had lingering confusion: I wanted to be a lawyer, no, a teacher, no, a programmer, no, an artist, no, a writer--until coronavirus happened, and everything came into focus: Full Stack Engineer. Knowledgeable about JS, Node.js, Express, Redux, React, React-Redux, I'm looking for a career that challenges me as an engineer and broadens my artistic experiences. Additionally, I'd love to join a team that understands the importance of teamwork and communication and understands how positive healthy environments for all people lead to better outcomes in all areas. 
 <!--
 **truthgoddess/truthgoddess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
