@@ -4,7 +4,7 @@ I self taught myself C++ and JavaScript. I expanded my teaching to teaching kids
 
 Proficient with JavaScript, Node.js, Express, Redux, React, React-Redux, and familiar with Ruby, C++, and other languages and frameworks, I'm looking solidify an engineering team for a dynamic and world-changing company and eventually lead a team of skilled, diverse engineers. I am committed to diversity, inclusion, and supporting women and LGBTQIA+ people in the tech world.
 
-http://www.katernorton.com
+https://www.linkedin.com/in/katerobinanorton
 https://github.com/truthgoddess
 
 Proficient : JavaScript, Node.js, HTML, Sequelize.js, Postgresql, Express.js, React, Redux
